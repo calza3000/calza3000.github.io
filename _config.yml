@@ -21,7 +21,7 @@ repository               : "calza3000/calza3000.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"   # place your profile picture in /assets/images/ or /images/
+  avatar           : "ProfilePic.jpg"   # place your profile picture in /assets/images/ or /images/
   name             : "Andrea Calzavara"
   pronouns         : "she/her"       # optional
   bio              : "PhD student in Deep Learning and Type 1 Diabetes research. Passionate about data science and open-source software."
