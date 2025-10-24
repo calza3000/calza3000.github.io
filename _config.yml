@@ -24,9 +24,9 @@ author:
   avatar           : "Elegant_pic.png"   # place your profile picture in /assets/images/ or /images/
   name             : "Andrea Calzavara"
   pronouns         : "PhD student in Bioengineering at the Department of Information Engineering, University of Padova"       # optional
-  bio              : "My research focuses on applying AI algorithms to improve diabetes management."  # short bio for author profile
+  # bio              : "My research focuses on applying AI algorithms to improve diabetes management."  # short bio for author profile
   location         : "Padova, Italy"         # can change to city/country
- # employer         : "Department of Information Engineering, University of Padova" 
+  # employer         : "Department of Information Engineering, University of Padova" 
   uri              :  # optional personal/professional website
   email            : "andrea.calzavara.phd@gmail.com"
 
