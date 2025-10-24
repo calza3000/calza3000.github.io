@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Information Engineering (Bioengineering curriculum), University of Padova, 2024 (expected)
+* M.S. in Bioengineering, University of Padova, 2024
+* B.S. in Biomedical Engineering, University of Padova, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov 2024 - Today: Ph.D. Student
+  * University of Padova, Department of Information Engineering
+  * Topic: “Enhancing type 1 diabetes care: A deep learning-powered clinical decision support system for proactive therapeutic interventions using explainable blood glucose forecasting”.
+  * Supervisor: Prof. Andrea Facchinetti; Co-supervisor: Prof. Giacomo Cappon
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2022 - May 2022: Research Intern
+  * University of Padova, Department of Information Engineering
+  * Systems Biology and Bioinformatics Group (SysBioBig)
+  * Supervisor: Prof. Massimo Bellato
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** Italian (Mother tongue), English (C1), French (A2), Spanish (A2)
+* **Digital Skills:**
+  * **Advanced:** Matlab, R, Python
+  * **Intermediate:** LaTeX, Microsoft Office Package, Git/GitHub, Simulink
+  * **Basic:** SLURM Job Scheduler, SQL
 
 Publications
 ======
