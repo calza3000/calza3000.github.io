@@ -1,0 +1,169 @@
+
+Andrea Calzavara
+Curriculum vitae
+	Ph.D. Student
+University of Padova
+Phone: +39 0498277758
+Cell: +39 3420450701
+Email: andrea.calzavara.11@phd.unipd.it
+Website: https://calza3000.github.io/	 
+
+ 
+1.1	 Personal Details
+Surname	Calzavara
+Name	Andrea
+Birth date	December 4th 2000
+Birthplace	Padova
+Nationality	Italian
+Residence	Via Antonio Fiorazzo, 14, 35129, Padova (PD), Italy
+Researcher unique identifiers	ORCID: 0009-0009-2265-9053
+Scopus Author ID: 58682454100
+WoS ResearcherID: JMC-8517-2023
+1.2	 Academic position
+Nov 2024 – 
+Today	Ph.D. Student in Information Engineering (Bioengineering curriculum) University of Padova, Italy. SSD ING-INF/06
+University scholarship (“borsa di dottorato”) funded by the University of Padova and its Department of Information Engineering.
+Topic: “Enhancing type 1 diabetes care: A deep learning-powered clinical decision support system for proactive therapeutic interventions using explainable blood glucose forecasting”. 
+Supervisor: Prof. Andrea Facchinetti; Co-supervisor: Prof. Giacomo Cappon
+
+Feb 2022 –
+May 2022	Research intern in the Systems Biology and Bioinformatics Group (SysBioBig) for my Bachelor’s thesis (180 hours) at the Department of Information Engineering (DEI), University of Padova, Italy. SSD ING-INF/06. Supervisor: Prof. Massimo Bellato
+
+1.3	 Summary of scientific production
+Journal papers	0 (0 as first author; 0 as second author; 0 without the PhD supervisor)
+Submitted/To be submitted journal papers	2 (1 as first author; 1 as second author; 1 without the PhD supervisor) 
+Scopus-indexed conference papers	1 (0 as first author; 0 as second author; 1 without the PhD supervisor)
+Other conference papers and abstracts	3 (1 as first author; 1 as second author, 2 without the PhD supervisor)
+Citations	3 (Scholar), 0 (Scopus), 0 (WOS)
+H-index	1 (Scholar), 0 (Scopus), 0 (WOS)
+
+ 
+
+Nov 2024 – 
+Today	Ph.D. Student in Information Engineering (Bioengineering curriculum) at the University of Padova, Italy. SSD ING-INF/06
+University scholarship (“borsa di dottorato”) funded by the University of Padova and its Department of Information Engineering.
+Topic: “Enhancing type 1 diabetes care: A deep learning-powered clinical decision support system for proactive therapeutic interventions using explainable blood glucose forecasting”. 
+Supervisor: Prof. Andrea Facchinetti; Co-supervisor: Prof. Giacomo Cappon
+
+Sept 2024	Master’s degree in Bioengineering (LM-21) at the University of Padova, Italy. Final Grade: 110L/110. GPA: 29.90/30
+Thesis: “Deep Learning Algorithms for Blood Glucose Forecasting in Type 1 Diabetes”. 
+Supervisor: Prof. Andrea Facchinetti, Co-supervisor: Dr. Francesco Prendin
+Jul 2022	Bachelor’s degree in Biomedical Engineering (L-8) at the University of Padova, Italy. Final Grade: 110L/110. GPA: 29.82/30
+Thesis: “Implementation of a simulator for microbial communities based on a multi-agent model”. 
+Supervisor: Prof. Massimo Bellato; Co-supervisor: Prof. Barbara di Camillo
+Jul 2019	High-school diploma in Applied Sciences at the Liceo Scientifico "Enrico Fermi", Padova, Italy. Final Grade: 83/100
+ 
+
+3.1 Teaching assistance
+Academic Year 24/25	Teaching assistant for the laboratory sessions of Biological Signal Processing (20 hours) and Machine Learning for Bioengineering (16 hours) in the Master’s degree program in Bioengineering (LM-21) and for Medical Informatics (7 hours) in the Bachelor’s degree program (L-8) at the Department of Information Engineering, University of Padova.
+Academic Year 22/23	Teaching assistant for the course Biomedical Signal Processing in the Bachelor’s degree Program in Biomedical Engineering (L-8) (50 hours, founded by the University of Padova under the “Mille e una Lode” initiative, see section 6.2) 
+Total number of hours: 93 (93 for IBIO-01/A, ex ING/INF-06 courses)
+
+
+ 
+4.1 Research activity topics
+Development of deep learning algorithms for blood glucose forecasting in type 1 diabetes (2024-Today)
+Type 1 Diabetes (T1D) is a chronic metabolic condition characterized by a deficiency in insulin production—a key hormone responsible for regulating blood glucose (BG) levels. As a result, individuals with T1D must continuously manage their BG to stay within the safe physiological range (70–180 mg/dL), often taking corrective actions when their levels deviate from this range. Forecasting algorithms can support this effort by enabling patients to act proactively, helping to prevent or mitigate impending glycemic events.
+The field of BG forecasting in T1D has been extensively studied, with numerous algorithms proposed and several comprehensive reviews published. However, recent advancements in computational power and the increasing availability of continuous glucose monitoring (CGM) data have accelerated the adoption of deep learning approaches in this domain. Existing reviews, which generally cover developments up to 2020 and take a broader perspective, do not fully capture these emerging trends. To address this gap, we propose an updated review that focuses specifically on deep learning-based BG forecasting [SJ2].
+In our review, we identify a key challenge in the field: the lack of a standardized evaluation framework, which hampers fair cross-study comparisons. Additionally, the most commonly used dataset—OhioT1DM—includes data from only 12 subjects, raising concerns about the generalizability of reported findings. This highlights the need for larger, more diverse, and comprehensive datasets to support the development and robust evaluation of BG forecasting models. To address this, we benchmarked the T1DEXI, which includes four weeks of data from 497 individuals with T1D. Using this dataset, we found that deep learning models outperform traditional autoregressive with exogenous input (ARX) models [A3], and that incorporating insulin, meal, and exercise information leads to improved performance over CGM-only approaches [C1].
+In the review we also observed a limited adoption of eXplainable AI (XAI) techniques, which are essential for the safe and effective deployment of deep learning models in clinical practice. To address this gap, our upcoming publication focuses on evaluating the physiological fidelity of deep learning approaches, identifying their limitations, and proposing a solution through a physiologically-informed neural network.
+
+
+4.2 Major research achievements
+Development of a new decision support system for type 1 diabetes management based on CGM sensors data
+In type 1 diabetes, patients must take a bolus of exogenous insulin to lower glucose concentration levels after meal intakes. For this purpose, current standard of care indicates the use of empirical guidelines for the calculation of the right amount of insulin to inject. However, has demonstrated in [J5] and [J14], they are suboptimal and potential harmful for the patients. For this reason, we started developing new algorithms, based on machine learning techniques, for the personalization and optimization of the insulin bolus calculation in type 1 diabetes therapy using CGM data (main goal of my PhD research project). Two algorithms have been developed: a neural network-based bolus calculator targeting the optimal insulin dose, and a simple heuristic based on a gradient boosted tree classifier. The two approaches demonstrated to outperform the standard rules for insulin bolus calculation and, by product, to improve safety for the user. This work was published in [J3][J6][C1][A4][A5][A7]. 
+Design of new model-based techniques for meal insulin bolus calculation has also been investigated. Three models have been developed. Each of the methodologies have been evaluated in silico allowing to achieve far better glycaemic performance when compared to state-of-the-art algorithms. Presentation of the results is reported in [J11][A7][A9][A10] [A12][A17][AN1]. Furthermore, nonlinear techniques have been explored for the scope. These techniques have demonstrated to improve the performance of [J11]. This part of the work is documented in [J18][C4] [C8].
+In parallel with the development of new effective algorithms for insulin bolus calculation, CGM-based algorithms for generating predictive alerts and suggesting optimal preventive actions have been explored. A new algorithm for generating hypoglycemic alerts has been developed and tested in silico using the T1D patient decision simulator, and it demonstrated to outperform the standard rule for hypoglycemia treatment recommended by the American Diabetes Association. This work was published in [J7] [C3] [A6] [A8] [A11] and a patent was filed [P1] and acquired by an international company. This work was part of the 2018-2021 agreement for consulting services between DEI-UNIPD and Dexcom Inc. (see Section 8.1). Lately, we focused on the development of new algorithms for the suggestion of correction insulin bolus administrations based on CGM-generated predictive alerts to manage hyperglycemia. Preliminary results show an evident improvement with respect to standard treatment. This part of the work was documented in [C9][CNI1][A24][AN4][SJ6].  
+Finally, the algorithms for meal insulin bolus calculation reported in [J11] and CGM-based predictive alerts and treatment published in [J7] and [C9] were integrated in the mobile platform described in [J13] the aim being building a unique mobile decision support system (DSS) for patients affected by type 1 diabetes. A preliminary work, describing the structure of the DSS is [C10]. Current undergoing work aims to refining and extensively validating the DSS in challenging in silico scenarios and on retrospective real data leveraging the tool described in [J20]. A paper reporting these results will be prepared and submitted soon.
+4.3 Participation in competitive research projects
+National projects 
+2022-2025	A non-invasive tattoo-based continuous GLUCOse Monitoring electronic system FOR Type-1 diabetes individuals (GLUCOMFORT) (see “Attachment 06 - Certification of participation to research projects and third mission activities.pdf” attachment pag. 4)
+PI: Andrea Facchinetti, Department of Information Engineering, University of Padova, Italy
+Funded by MIUR (Italian Minister for Education) under the Progetti di Ricerca di Rilevante Interesse Nazionale 2020 (PRIN 2020) initiative. Protocol number identifier: Prot. 2020X7XX2P, topic identifier: PE8 (Physical sciences and engineering). Project budget: 638,940.00 €. (367,381.00 € for the University of Padova).
+Role: 
+
+
+ 
+5.1 Invited talks
+Demo presentations at international conferences – A. Calzavara speaker
+2025	“Evaluating the Effect of Input Features on Deep Learning Models for Blood Glucose Forecasting” in the Demo and Innovation Fair of the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society – EMBC, Copenhagen, Denmark, July 14-17, 2025. (see [C1] Section 10.3) [~3000 conference attendees]
+
+
+5.2 Non-invited talks
+Oral presentations at international conferences – A. Calzavara speaker
+2025	“Evaluating the Effect of Input Features on Deep Learning Models for Blood Glucose Forecasting” in the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society – EMBC, Copenhagen, Denmark, July 14-17, 2025. (see [C1] Section 10.3) [~3000 conference attendees]
+2025	“Leveraging T1DEXI Study to Develop Deep Learning Models
+for Predicting Blood Glucose Levels” in the 18th International Conference on Advanced Technology & Treatment for Diabetes – ATTD, Amsterdam, Netherlands, March 19-22, 2025. (see [A3] Section 10.3) [~2500 conference attendees]
+Total number: 2 
+Oral presentations at international conferences on contributed work – Other speakers
+2023	Speaker: M. Bellato “Bactlife: an open-science-oriented simulator for bacterial communities’ evolution exploiting agent-based modeling and Dash GUI” in the 18th Conference on Computational Intelligence Methods for Bioinformatics & Biostatistics – CIBB, Padova, Italy, September 6-8, 2023 (see [SJ1] Section 10.4) [~1000 conference attendees] 
+2022	Speaker: M. Bellato “An agent-based simulator for microbial communities’ evolution” in the Bioinformatics and Computational Biology Conference – BBCC2022, Online, December 13-15, 2022 (see [A2] section 10.3).
+Total number: 2
+Poster presentations at national conferences
+2023	Poster presented to the 8th edition of Italian National Bioengineering Group Congress, Padova, Italy. [~300 conference attendees]
+2022	Poster presented to the 18th Annual Meeting of the Bioinformatics Italian Society, Verona, Italy. [~300 conference attendees]
+Total number: 2
+Seasonal schools 
+2025	1st  International Summer School on AI for Diabetes Management, Girona, Spain, September 22-26
+2025	Participation to the 1st AIxIA Summer School on Artificial Intelligence for Healthcare, Trento, Italy.
+2021	Participation to the 40th edition of the Annual Summer School of the Italian National Bioengineering Group, Online.
+Total number: 2
+ 
+
+6.1 Grants
+1/11/2024-30/09/2027	University scholarship (“borsa di dottorato” funded by University of Padova and its Department of Information Engineering) for attending the Ph.D. Course in Information Engineering (Bioengineering curriculum) at University of Padova.
+2021, 2022, 2024	University scholarship (“Borsa di studio regionale” funded by University of Padova) awarded to capable and deserving students with limited financial means.
+6.2 Awards
+2025	Luigi Divieti & Marisa Maranzana - Politecnico di Milano Award
+Master’s thesis prize awarded by the National Group of Bioengineering (GNB)
+2025	Special mention of Master’s thesis in the 3rd edition of the BCC Veneta Credito Cooperativo Award for the innovative theme and the theoretical and empirical contribution.
+2022	“Mille e una Lode Award” by the University of Padova reserved for the best students from each degree course (~3% of the students)
+2022	Best Oral Presentation award of the Bioinformatics and Computational Biology Conference – BBCC2022 for the work “Bactlife: an open-science-oriented simulator for bacterial communities’ evolution exploiting agent-based modeling and Dash GUI” (speaker: M. Bellato)
+6.3 Fellowships
+2025 – Today	Student Fellow of the IEEE Engineering in Biology and Medicine Society (EMBS)
+	
+ 
+7.2  Reviewer activity
+		2025 - Today	Reviewer for 1 Q1 and Q2 scientific journals
+Scientific Reports (n=1), Artificial Intelligence In Medicine (n=1)
+2025 –
+Today	Revier for conference
+Annual International Conference of the IEEE Engineering in Medicine and Biology Society (n=2)
+
+Total number: 1 for journals, 2 for conferences
+
+ 
+8.1 Participation to orientation activities for prospective students 
+18/02/2025	Served as an orientation tutor for prospective Biomedical Engineering students at the University of Padova during the “Scegli con noi” Fair in Padova, Italy (2 hours).
+30/11/2024	Served as an orientation tutor for prospective students of the Department of Information Engineering, University of Padova, at the Job&Orienta Fair in Verona, Italy (8.5 hours).
+
+ 
+Languages
+Italian	Mother tongue 
+English	C1
+French	A2
+Spanish	A2
+Digital skills
+Advanced	Matlab, R, Python
+Intermediate	LaTeX, Microsoft Office Package, Git/GitHub, Simulink
+Basic	SLURM Job Scheduler, SQL
+
+
+ 
+
+10.2 Manuscript submitted/to be submitted to international journals
+[SJ1] M. Bellato, A. Calzavara, S. Rebecca, N. Venturini Degli Esposti, A. Lucchiari, M. Cappellato, and B. Di Camillo, “Bactlife: an open-science-oriented simulator for bacterial communities’ evolution exploiting agent-based modeling and Dash GUI” BMC Bioinformatics Supplements - CIBB2023 Special Issue (under revision, submitted January 2024).
+[SJ2] A. Calzavara, F. Prendin, G. Cappon, S. Del Favero, and A. Facchinetti “Systematic Review on Deep Learning Algorithms for Blood Glucose Forecasting in Type 1 Diabetes” Journal of Biomedical and Health Informatics (under revision, submitted May 2025).
+10.3 Publication related to international conferences
+Peer-reviewed Scopus-indexed conference papers
+[C1] A. Calzavara, F. Prendin, G. Cappon, S. Del Favero, and A. Facchinetti “Evaluating the Effect of Input Features on Deep Learning Models for Blood Glucose Forecasting” in the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society – EMBC, Copenhagen, Denmark, July 14-17, 2025 (accepted for oral presentation, speaker A. Calzavara).
+Abstracts
+[A1] M. Bellato, A. Calzavara, M. Cappellato, and B. Di Camillo “Implementation of a Python simulator for microbial communities evolution via agent-based modelling” in the 18th Annual Meeting of the Bioinformatics Italian Society, June 27-29, Verona, Italy.
+[A2] M. Bellato, M. Cappellato, A. Calzavara, S. Rebecca, A. Lucchiari, and B. Di Camillo “An agent-based simulator for microbial communities’ evolution” in the Bioinformatics and Computational Biology Conference – BBCC2022, Online, December 13-15, 2022 (accepted for oral presentation, speaker M. Bellato).
+[A3] A. Calzavara, F. Prendin, G. Cappon, and A. Facchinetti, “Leveraging T1DEXI Study to Develop Deep Learning Models for Predicting Blood Glucose Levels”, in the 18th International Conference on Advanced Technology & Treatment for Diabetes – ATTD, Amsterdam, Netherlands, March 19-22, 2025 (accepted for oral presentation, speaker A. Calzavara).
+10.4 Publications related to national conferences
+Peer reviewed Scopus-indexed conference papers
+[CN1] M. Bellato, M. Cappellato, A. Calzavara, A. Lucchiari, S. Rebecca, and B. Di Camillo “Simulating microbial communities’ evolution via Agent based modelling: a Python tool” in the 8th Congress of the National Group of Bioengineering – GNB, Padova, Italy, Jun 21-23, 2023. 
+
+The undersigned ANDREA CALZAVARA born in Padova (PD) on December 4th 2000, resident in Padova (PD) at Via Antonio Fiorazzo 14, 35129 under his own liability, in full understanding of the criminal liability for false declarations and statements, in accordance with Art. 76 of Italian Presidential Decree DPR no. 445 dated 28/12/2000, hereby declares that all information provided in the present curriculum vitae is true. 
+Signature:

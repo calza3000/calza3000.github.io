@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Andrea Calzavara"
-description              : &description "Andrea Calzavara's academic portfolio showcasing research, projects, and publications"
+description              : &description "Andrea Calzavara's website showcasing research, projects, and publications"
 url                      : https://calza3000.github.io
 baseurl                  : "" # leave empty for root of GitHub Pages site
 repository               : "calza3000/calza3000.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Padova, Italy"         # can change to city/country
   # employer         : "Department of Information Engineering, University of Padova" 
   uri              :  # optional personal/professional website
-  email            : "andrea.calzavara.phd@gmail.com"
+  email            : "andrea.calzavara.11@phd.unipd.it"
 
   # Academic websites
   academia         : # URL
