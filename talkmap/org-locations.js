@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Evaluating the Effect of Input Features on Deep Learning Models for Blood Glucose Forecasting<br />47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society \u2013 EMBC; Copenhagen, Denmark",
+    55.6867243,
+    12.5700724
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Leveraging T1DEXI Study to Develop Deep Learning Models for Predicting Blood Glucose Levels<br />18th International Conference on Advanced Technology & Treatment for Diabetes \u2013 ATTD; Amsterdam, Netherlands",
+    52.3730796,
+    4.8924534
   ]
 ];
