@@ -27,7 +27,7 @@ author:
   bio              : "PhD student in Deep Learning and Type 1 Diabetes research. Passionate about data science and open-source software."
   location         : "Padova, Italy"         # can change to city/country
   employer         : "Department of Information Engineering, University of Padova" 
-  uri              : "https://www.linkedin.com/in/andrea-calzavara-8a4847274/"  # optional personal/professional website
+  uri              :  # optional personal/professional website
   email            : "andrea.calzavara.phd@gmail.com"
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/calza3000"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/andrea-calzavara-8a4847274/" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
