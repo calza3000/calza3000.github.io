@@ -23,10 +23,10 @@ repository               : "calza3000/calza3000.github.io"
 author:
   avatar           : "ProfilePic.png"   # place your profile picture in /assets/images/ or /images/
   name             : "Andrea Calzavara"
-  pronouns         : "she/her"       # optional
+  pronouns         : "he/him"       # optional
   bio              : "PhD student in Deep Learning and Type 1 Diabetes research. Passionate about data science and open-source software."
-  location         : "Earth"         # can change to city/country
-  employer         : "University / Research Lab Name" 
+  location         : "Padova, Italy"         # can change to city/country
+  employer         : "Department of Information Engineering, University of Padova" 
   uri              : "https://www.linkedin.com/in/andreacalza"  # optional personal/professional website
   email            : "andreacalza@example.com"
 
