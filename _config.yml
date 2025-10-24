@@ -27,20 +27,20 @@ author:
   bio              : "PhD student in Deep Learning and Type 1 Diabetes research. Passionate about data science and open-source software."
   location         : "Padova, Italy"         # can change to city/country
   employer         : "Department of Information Engineering, University of Padova" 
-  uri              : "https://www.linkedin.com/in/andreacalza"  # optional personal/professional website
-  email            : "andreacalza@example.com"
+  uri              : "https://www.linkedin.com/in/andrea-calzavara-8a4847274/"  # optional personal/professional website
+  email            : "andrea.calzavara.phd@gmail.com"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=X7N54J0AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-2265-9053"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #URL
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58682454100"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
