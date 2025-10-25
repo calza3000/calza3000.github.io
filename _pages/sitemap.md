@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+LOLLLL
 
 <h2>Pages</h2>
 {% for post in site.pages %}
@@ -30,7 +31,7 @@ A list of all the posts and pages found on the site. For you robots out there, t
     {% endfor %}
 
     {% if has_docs %}
-      <h2>{{ collection.label }}</h2>
+  <h2>{{ collection.label | capitalize }}</h2>
       {% for post in collection.docs %}
         {% unless post.title == nil or post.title == "" or post.published == false %}
           {% include archive-single.html %}
