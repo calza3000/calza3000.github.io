@@ -1,152 +1,251 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Andrea Calzavara",
+    "label": "Ph.D. Student in Bioengineering",
+    "email": "andrea.calzavara.11@phd.unipd.it",
+    "phone": "+39 3420450701",
+    "website": "https://calza3000.github.io",
+    "summary": "Ph.D. student at the University of Padova focusing on explainable deep learning decision support systems for type 1 diabetes care.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Via Antonio Fiorazzo 14",
+      "postalCode": "35129",
+      "city": "Padova",
+      "countryCode": "IT",
+      "region": "PD"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&authuser=1&user=X7N54J0AAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0009-2265-9053",
+        "url": "https://orcid.org/0009-0009-2265-9053"
+      },
+      {
+        "network": "Scopus",
+        "username": "58682454100",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=58682454100"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "calza3000",
+        "url": "https://github.com/calza3000"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "andrea-calzavara",
+        "url": "https://www.linkedin.com/in/andrea-calzavara-8a4847274/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Ph.D. Student",
+      "company": "University of Padova, Department of Information Engineering",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Doctoral researcher funded by the University of Padova scholarship program.",
+      "highlights": [
+        "Project: Enhancing type 1 diabetes care with an explainable deep learning clinical decision support system.",
+        "Supervisors: Prof. Andrea Facchinetti and Prof. Giacomo Cappon."
+      ]
+    },
+    {
+      "position": "Research Intern",
+      "company": "Systems Biology and Bioinformatics Group (SysBioBig), University of Padova",
+      "startDate": "2022-02-01",
+      "endDate": "2022-05-01",
+      "summary": "Bachelor thesis internship focused on agent-based modeling under Prof. Massimo Bellato.",
+      "highlights": [
+        "Completed a 180-hour internship contributing to microbial community simulation research."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Padova",
+      "area": "Ph.D. in Information Engineering (Bioengineering curriculum)",
+      "studyType": "Ph.D.",
+      "startDate": "2024-11-01",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "University of Padova",
+      "area": "M.S. in Bioengineering",
+      "studyType": "Master's degree",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "endDate": "2024",
+      "gpa": "110L/110",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
+      "institution": "University of Padova",
+      "area": "B.S. in Biomedical Engineering",
+      "studyType": "Bachelor's degree",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2022",
+      "gpa": "110L/110",
+      "courses": []
+    },
+    {
+      "institution": "Liceo Scientifico \"Enrico Fermi\"",
+      "area": "High School Diploma in Applied Sciences",
+      "studyType": "High school",
+      "startDate": "",
+      "endDate": "2019",
+      "gpa": "83/100",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Italian (mother tongue)",
+        "English (C1)",
+        "French (A2)",
+        "Spanish (A2)"
+      ]
+    },
+    {
+      "name": "Digital Skills",
+      "level": "",
+      "keywords": [
+        "Matlab",
+        "R",
+        "Python",
+        "LaTeX",
+        "Microsoft Office",
+        "Git",
+        "GitHub",
+        "Simulink",
+        "SLURM",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Mother tongue"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "French",
+      "fluency": "A2"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "A2"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Bactlife: an open-science-oriented simulator for bacterial communities' evolution exploiting agent-based modeling and Dash GUI",
+      "publisher": "BMC Bioinformatics Supplements - CIBB2023 Special Issue",
+      "releaseDate": "2024-01-01",
+      "website": "",
+      "summary": "Under revision; co-authored contribution describing the Bactlife simulator."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Systematic Review on Deep Learning Algorithms for Blood Glucose Forecasting in Type 1 Diabetes",
+      "publisher": "Journal of Biomedical and Health Informatics",
+      "releaseDate": "2025-05-01",
+      "website": "",
+      "summary": "Submitted systematic review focusing on deep learning approaches for blood glucose forecasting."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Evaluating the Effect of Input Features on Deep Learning Models for Blood Glucose Forecasting",
+      "publisher": "EMBC 2025",
+      "releaseDate": "2025-07-14",
+      "website": "",
+      "summary": "Peer-reviewed Scopus-indexed conference paper accepted for oral presentation at EMBC 2025."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Leveraging T1DEXI Study to Develop Deep Learning Models for Predicting Blood Glucose Levels",
+      "publisher": "ATTD 2025",
+      "releaseDate": "2025-03-19",
+      "website": "",
+      "summary": "Conference abstract accepted for oral presentation at ATTD 2025."
+    },
+    {
+      "name": "Implementation of a Python simulator for microbial communities evolution via agent-based modelling",
+      "publisher": "18th Annual Meeting of the Bioinformatics Italian Society",
+      "releaseDate": "2022-06-27",
+      "website": "",
+      "summary": "Conference abstract presented in Verona, Italy."
+    },
+    {
+      "name": "An agent-based simulator for microbial communities' evolution",
+      "publisher": "Bioinformatics and Computational Biology Conference (BBCC 2022)",
+      "releaseDate": "2022-12-13",
+      "website": "",
+      "summary": "Conference abstract presented at BBCC 2022."
+    },
+    {
+      "name": "Simulating microbial communities' evolution via Agent based modelling: a Python tool",
+      "publisher": "8th Congress of the National Group of Bioengineering (GNB)",
+      "releaseDate": "2023-06-21",
+      "website": "",
+      "summary": "Peer-reviewed conference contribution presented in Padova, Italy."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Evaluating the Effect of Input Features on Deep Learning Models for Blood Glucose Forecasting",
+      "event": "47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "date": "2025-07-14",
+      "location": "Copenhagen, Denmark",
+      "description": "Oral presentation and demo on explainable deep learning for blood glucose forecasting."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Leveraging T1DEXI Study to Develop Deep Learning Models for Predicting Blood Glucose Levels",
+      "event": "18th International Conference on Advanced Technology & Treatment for Diabetes (ATTD)",
+      "date": "2025-03-19",
+      "location": "Amsterdam, Netherlands",
+      "description": "Oral presentation on benchmarking deep learning models using the T1DEXI study."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Biological Signal Processing",
+      "institution": "University of Padova, Department of Information Engineering",
+      "date": "2025-01-01",
+      "role": "Teaching Assistant",
+      "description": "Laboratory sessions for the master's degree program in Bioengineering (20 hours)."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Machine Learning for Bioengineering",
+      "institution": "University of Padova, Department of Information Engineering",
+      "date": "2025-01-01",
+      "role": "Teaching Assistant",
+      "description": "Laboratory sessions for the master's degree program in Bioengineering (16 hours)."
+    },
+    {
+      "course": "Medical Informatics",
+      "institution": "University of Padova, Department of Information Engineering",
+      "date": "2025-01-01",
+      "role": "Teaching Assistant",
+      "description": "Laboratory support for the bachelor's degree program in Biomedical Engineering (7 hours)."
+    },
+    {
+      "course": "Biomedical Signal Processing",
+      "institution": "University of Padova, Department of Information Engineering",
+      "date": "2023-01-01",
+      "role": "Teaching Assistant",
+      "description": "Laboratory activities for the bachelor's degree program in Biomedical Engineering (50 hours)."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
