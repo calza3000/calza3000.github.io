@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="center">
+<!-- <p align="center">
   <img src="/images/Elegant_pic.png" alt="Andrea Calzavara" style="width:200px; border-radius:50%;" />
 </p>
 
@@ -20,7 +20,7 @@ redirect_from:
 - Phone: [+39 3420450701](tel:+393420450701)  
 - Website: [https://calza3000.github.io](https://calza3000.github.io)  
 - Location: Padova, PD, IT  
-- Profiles: [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=X7N54J0AAAAJ) · [ORCID](https://orcid.org/0009-0009-2265-9053) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58682454100) · [GitHub](https://github.com/calza3000) · [LinkedIn](https://www.linkedin.com/in/andrea-calzavara-8a4847274/)
+- Profiles: [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=X7N54J0AAAAJ) · [ORCID](https://orcid.org/0009-0009-2265-9053) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58682454100) · [GitHub](https://github.com/calza3000) · [LinkedIn](https://www.linkedin.com/in/andrea-calzavara-8a4847274/) -->
 
 Summary
 ======
