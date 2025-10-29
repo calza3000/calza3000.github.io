@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="/CV_Calzavara.docx" download>Download CV (DOCX)</a></p>
+
 <!-- <p align="center">
   <img src="/images/Elegant_pic.png" alt="Andrea Calzavara" style="width:200px; border-radius:50%;" />
 </p>
